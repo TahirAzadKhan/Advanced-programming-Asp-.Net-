@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Cart";
+}
+
+
+
+<form action="/" method="post">
+    <div class="container">
+        <h2>Product Cart</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Product Name</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <th scope="row">@p.Id</th>
+                        <td>@p.Name</td>
+                        <td>@p.Price</td>
+                        <td>@p.Description</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+        <input type="submit" value="Check out" class="btn btn-primary">
+</form>

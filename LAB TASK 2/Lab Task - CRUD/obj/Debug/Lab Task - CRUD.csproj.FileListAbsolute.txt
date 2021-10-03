@@ -1,0 +1,158 @@
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Lab Task - CRUD.dll.config
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Lab Task - CRUD.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Lab Task - CRUD.pdb
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\csc.exe
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\csc.exe.config
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\csc.rsp
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\csi.exe
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\csi.exe.config
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\csi.rsp
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.AppContext.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Collections.Immutable.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Console.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Globalization.Calendars.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.IO.Compression.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.IO.FileSystem.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Net.Http.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Net.Sockets.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Reflection.Metadata.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.ValueTuple.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Xml.XPath.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\vbc.exe
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\vbc.exe.config
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\vbc.rsp
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\VBCSCompiler.exe
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\roslyn\VBCSCompiler.exe.config
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Antlr3.Runtime.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Microsoft.Web.Infrastructure.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Newtonsoft.Json.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Helpers.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Mvc.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Optimization.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Razor.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.WebPages.Deployment.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.WebPages.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.WebPages.Razor.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\WebGrease.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Helpers.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Mvc.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Optimization.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.Razor.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.WebPages.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.WebPages.Deployment.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\System.Web.WebPages.Razor.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Newtonsoft.Json.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Antlr3.Runtime.pdb
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.csproj.AssemblyReference.cache
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.csproj.CoreCompileInputs.cache
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.csproj.CopyComplete
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.dll
+Q:\AIUB\.NET\Mid LabTask\Lab Task - CRUD\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.pdb
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Lab Task - CRUD.dll.config
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Lab Task - CRUD.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Lab Task - CRUD.pdb
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\csc.exe
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\csc.exe.config
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\csc.rsp
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\csi.exe
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\csi.exe.config
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\csi.rsp
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.AppContext.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Collections.Immutable.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Console.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Globalization.Calendars.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.IO.Compression.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.IO.FileSystem.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Net.Http.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Net.Sockets.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Reflection.Metadata.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.ValueTuple.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Xml.XPath.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\vbc.exe
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\vbc.exe.config
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\vbc.rsp
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\VBCSCompiler.exe
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\roslyn\VBCSCompiler.exe.config
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Antlr3.Runtime.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Microsoft.Web.Infrastructure.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Newtonsoft.Json.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Helpers.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Mvc.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Optimization.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Razor.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.WebPages.Deployment.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.WebPages.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.WebPages.Razor.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\WebGrease.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Helpers.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Mvc.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Optimization.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.Razor.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.WebPages.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.WebPages.Deployment.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\System.Web.WebPages.Razor.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Newtonsoft.Json.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Antlr3.Runtime.pdb
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.csproj.AssemblyReference.cache
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.csproj.CoreCompileInputs.cache
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.csproj.CopyComplete
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.dll
+Q:\AIUB\.NET\Mid LabTask\ASP.NET-CRUD-product-\Lab Task - CRUD\obj\Debug\Lab Task - CRUD.pdb
